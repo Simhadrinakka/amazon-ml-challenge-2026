@@ -1,0 +1,124 @@
+source1_entity_id	target_entity_id	target_source	s1_name	target_name	s1_addr	target_addr	s1_country	target_country
+S1-656753428	S3-679606215	S3	Ss Food Private Limited	एसएस फूड प्राइवेट लिमिटेड	Af-684, Nandgram Near Mother India Public School. Ph. 989, 9487203, Ghaziabad, Uttar Pradesh	af-684, ghaziabad, up	India	IN
+S1-567308588	S2-226928496	S2	Zander Blue Co	zander blrie co	9236 Meadowmont View Drive, Charlotte, NC	9238 meadowmont view dr, chralotte city, nc	US	US
+S1-567308588	S2-191200521	S2	Zander Blue Co	zblue com	9236 Meadowmont View Drive, Charlotte, NC	9238 meadowmont view dr, chralotte city, nc	US	US
+S1-116043204	S3-85523430	S3	Red Consultants Pvt. Ltd.	red pvt ltd center	C/O Tapas Kumar Betal, Bhogpur, Purba Medinipur, Panskura, East Midnapore, West Bengal		India	IN
+S1-876102895	S2-791711694	S2	Physical Therapy Clinic	physical clinic therapy	5208 Beacon Falls Drive, Fl 1, Columbia, MO		US	US
+S1-574308285	S3-875723263	S3	Atlantic Coalition	atlantic center	104 Noel Cove Circle, Nashville, TN	noel cove cir, hermitage, tennessee	US	US
+S1-989976700	S3-231189391	S3	Rowland and Porter Inc	rowland and pir inc	715 8th Avenue, Stillwater, OK	0715 8th ave, stillwatr, oklahoma	US	US
+S1-652339606	S2-731383297	S2	Libra Service Limited	sri libra service ltd	2 Rwm, Ravwala Soubhagya, Ravwala, Bajju, Kolayat, Bikaner, Rajasthan		India	IN
+S1-502736054	S3-82080725	S3	First Seven Exports Pvt Ltd	firstseven	Maharashtra, At Shahagad Tq. Ambad, Jalna	at shahgad tq ambad, jalna, mh	India	IN
+S1-502736054	S3-537652714	S3	First Seven Exports Pvt Ltd	फर्स्ट सेवन एक्सपोर्ट्स प्रा लि	Maharashtra, At Shahagad Tq. Ambad, Jalna	at shahagad tq ambad, jalna, mh	India	IN
+S1-83647344	S3-175231511	S3	New India Private Limited	new pvt ltd 5ervices	Fl 401, Telangana, Sri Niketan Abhinandana Aprt. Ayyappa Society, Nr.Cgr Int. Pl.250 251, Madhapur, Hyderabad, Rangareddy		India	IN
+S1-466277913	S3-280749539	S3	Sterling Eastern Inc	inc 5terling eastern	8526 Kensley Lane, Lakesite, TN	tennessee, hixson, kensley ln	US	US
+S1-254440362	S3-734943831	S3	West Surgical, Inc.	west 5udilc inc	400 Holstein Street, Unit Unit 2, Bridgeport Borough, PA		US	US
+S1-369720553	S3-439447419	S3	Station Global Co	station gall co	No. 309, Shreshtabhumi No. 87, K.R. Road. Shankarapuram, Bangalore, Karnataka	ste 309, bengaluru, ka	India	IN
+S1-369720553	S2-309368741	S2	Station Global Co	station gdeonal co	No. 309, Shreshtabhumi No. 87, K.R. Road. Shankarapuram, Bangalore, Karnataka		India	IN
+S1-9455909	S3-384632970	S3	Seven Sun Producer Private Limited	सेवन सन प्रोड्यूसर प्राइवेट लिमिटेड	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	mumbai, mumbai region, unit 08, mh	India	IN
+S1-9455909	S3-133372803	S3	Seven Sun Producer Private Limited	सेवन सन प्रोड्यूसर प्राइवेट लिमिटेड	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	unit 08, mumbai region, mumbai, mh	India	IN
+S1-9455909	S3-393934040	S3	Seven Sun Producer Private Limited	priavfe seven sun producer ltd	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	mh, mumbai region, unit 08, mumbai	India	IN
+S1-796816825	S2-347326271	S2	Red Global Limited	রেড গ্লোবাল লিমিটেড	West Bengal, Panchagram, Badkulla, C/O: Malay Sarkar, Hanskhali, Nadia	c/o malay sarkar, panchagram, badkulla, hanskhali, badkulla, west bengal	India	IN
+S1-796816825	S3-896547694	S3	Red Global Limited	রেড গ্লোবাল লিমিটেড	West Bengal, Panchagram, Badkulla, C/O: Malay Sarkar, Hanskhali, Nadia	c/o malay sarkar, panchagram, badkulla, kolkata region, hanskhali, wb	India	IN
+S1-854284989	S2-54609117	S2	Kimble Society	kimble sgcoiy	125 Guest Street, Unit 421, Boston, MA	181 guest st, brighton, ma	US	US
+S1-424050882	S3-37198119	S3	Ram Foods LLP	ram llp service service	Haryana, Cabin No.1, 2Nd Floor, Sector 16, Panchkula, Sco No. 18, Panchkula	shop no 18, panchkula, hr	India	IN
+S1-93741603	S3-981096747	S3	Aguilar Diversified LLC	aguilar diervsmfeid llc	21255 Summit Drive, Sheridan, OR		US	US
+S1-879276752	S3-144339303	S3	Bryan Square LLC	bryansquare com	850 Gorman Road, Gatesville, TX	gatesville, texas, gorman rd	US	US
+S1-557991692	S2-88682972	S2	Vinay Tele	vinay toetle	48 Manuja Bhavancentral Avenue Road, Nagpur, Maharashtra		India	IN
+S1-8713989	S3-20459433	S3	Li Sterling Technology LP	li sterlnig tech lp 8180	8057 Little Circle Road, Noblesville, IN		US	US
+S1-477515156	S3-979362679	S3	Aksha Trading Pvt Ltd	aksha pvt ltd center	Gurgaon, Dlf Phase 5, Sector 43, Golf Course Road, We Work Dlf Two Horizon Centre, Dlf Qe, Haryana	we work dlf two horizon centre, dlf qe, gurgaon, hr	India	IN
+S1-705293979	S3-967828286	S3	Poulsbo Express Fortress	poulsbo poulsbo express	470 Sommerseth Street, Poulsbo, WA	washington, poulsbo, 70 sommerseth st	US	US
+S1-679550141	S3-805670560	S3	Vijay Universal Exports Pvt Ltd	universalexportsvijay com	478/1, Bangalore North, Karnataka, Bangalore, Mshc Layout, Anandnagar, Hebbal, Anandnagar (Bangalore)	h no 654 478/1, mshc layout, anandnagar, hebbal, anandnagar bangalore, bangalore north, bangalore, ಕರ್ನಾಟಕ	India	IN
+S1-849274176	S2-34421487	S2	Aarvita Biosciences Private Limited	jaxrizagild	No.41, Ponnambalam Salai, K.K.Nagar, Chennai, Tamil Nadu	41, chennai city region, தமிழ்நாடு	India	IN
+S1-776686932	S3-653415229	S3	Bn Technologies Ltd	bntechnologies	Kallingalakathchennara P O Mangalam, Malapuram, Kerala	malapuram, malappuram, kl, kallingalakathchennara p o mangalam	India	IN
+S1-654078241	S2-27298391	S2	Southern Estate	सदर्न एस्टेट	F-21, S/F, Lado Sarai, New Delhi, South West Delhi, Delhi	f-22, s/f, lado sarai, new delhi, south west delhi, delhi	India	IN
+S1-266344604	S3-300641912	S3	Dream Construction Private Limited	ড্রিম কনস্ট্রাকশন প্রাইভেট লিমিটেড	4A, 4Th Flr, Ram Krishna Abashan Phase-Ii Dr.B.C Roy Sarani, Jyangra, Baguiati, Kolkata, Parganas North, West Bengal	4a, kolkata, parganas north, পশ্চিমবঙ্গ	India	IN
+S1-536166111	S3-773720262	S3	HBH Infotech Private Limited	private hbh ioonch ltd	Bhopal, Huzur, Madhya Pradesh, Motiya Park, Near Kele Wali Masjid, H.No.72	h no.72, motiya park, near kele wali masjid, huzur, n/a, मध्य प्रदेश	India	IN
+S1-521254993	S2-391342801	S2	Life Healthcare Private Limited	लाइफ हेल्थकेयर प्राइवेट लिमिटेड	C/O Ketan Rajendra Mande, Dahiwad, Amalner, Amalner, Jalgaon, Maharashtra	jalgaon, amalner, maharashtra, c/o ketan rajendra mande	India	IN
+S1-103101914	S3-464737380	S3	Midwest Trusted Management Inc	midwest management lnc center	OK, Kingfisher, 16058 820 Road		US	US
+S1-100166899	S3-548424106	S3	Green Services Limited	sri green services	House No- 42, Guriani, Rewari, Guriani, Rewari, Haryana	h no 92, guriani, rewari, guriani, rewari, hr	India	IN
+S1-308262271	S2-696354721	S2	Royal Surya Management	रॉयल सूर्य मैनेजमेंट	605, 6Th Floor, Hallmark Business Plaza, Opp. Guru Nanak Hospital, Bandra (East), Mumbai, Mumbai City, Maharashtra	mumbai city, 605, mumbai, महाराष्ट्र	India	IN
+S1-308262271	S3-149565445	S3	Royal Surya Management	royal सूर्य मैनेजमेंट	605, 6Th Floor, Hallmark Business Plaza, Opp. Guru Nanak Hospital, Bandra (East), Mumbai, Mumbai City, Maharashtra	605, mumbai city, mumbai, mh	India	IN
+S1-543760819	S2-829732434	S2	TMY Caterers Private Limited	tmy-caterers pvt ltd	H. No. 3-122, Bapuji Nagar, Yapral, Hyderabad, Telangana, Hyderabad, Telangana	h no 3-122, hyderabad, andhra pradesh	India	IN
+S1-806616139	S3-837289282	S3	Golden Power Pvt Ltd	golden powgr pvt ltd	431, 441 F/F Front Side, Gali No.5 Guru Ram Dass N, East Delhi, Delhi	31, east delhi, dl	India	IN
+S1-883281842	S2-470387998	S2	Style Multi Pvt. Ltd.	m/s style múrlt pvt ltd	105, Park Street, R, Kolkata, Kolkata, Howrah, West Bengal		India	IN
+S1-435197119	S2-23416594	S2	Arihant Properties	ଅରିହନ୍ତ ପ୍ରୋପର୍ଟିଜ୍	Plot No.569/1400, Kuakhai Nagar, Lane-2, Bhubaneswar, Khordha, Orissa	plot no 569/1400, khordha, odisha	India	IN
+S1-435197119	S2-976363731	S2	Arihant Properties	ଅରିହନ୍ତ ପ୍ରୋପର୍ଟିଜ୍	Plot No.569/1400, Kuakhai Nagar, Lane-2, Bhubaneswar, Khordha, Orissa	plot no 569/1400, khordha, odisha	India	IN
+S1-779770033	S2-344418723	S2	Champion & Brothers Private Limited	dr champion- and brothers pvt ltd	C/O Archana Kumari Ambesh, Kumar Singh A2/13 2Nd Fl, South Delhi, Delhi		India	IN
+S1-47773771	S3-514311755	S3	Primary Care Specialists Inc.	belocalo	141-08 71 Road, Flushing, NY	141-08b 71 rd, flushign, new york	US	US
+S1-685871904	S3-740323634	S3	Gonzalez Keycorp LLC	gonzalez llc center enterprises	314 Cornell Avenue, Endicott, NY		US	US
+S1-879043765	S3-698994457	S3	Avantika Solar Private Limited	m/s avantika solar pvt ltd	43, Anand Deep Building City Centre, Gwalior, Madhya Pradesh	door no 330 43, gwalior, mp	India	IN
+S1-103306577	S2-972889340	S2	Board of Buildings	board of	IL, Kincaid, 1308 Springfield Road	308 springfield rd, kincaid, il	US	US
+S1-433937014	S3-261083720	S3	Palao Inc.	palao lnc	4040 1-17, Momence, IL	4040 1-17, momennce, illinois	US	US
+S1-205963340	S2-616502408	S2	Secure Marketing Technologies LLC	technologiesmarketing com	982 Willman Pike, Hartford City, IN	hartford city, willman pike, in	US	US
+S1-914122601	S3-121424381	S3	Mireles Ashford	mireles center	125 Park Row Avenue, Ventura, CA	california, park row ave, ventura, pmb 7848	US	US
+S1-540897538	S3-449949564	S3	Back Developers	back services	216A/18, Ground Floor, Gautam Nagar Near Father Angel Schoo L, New Delhi, Delhi	gautam nagar near father angel schoo l, dl, new delhi, blk c-8-677 216a/18, ground fl	India	IN
+S1-136329156	S3-518441474	S3	Baba Care Pvt Ltd	பாபா கேர் பிரைவேட் லிமிடெட்	No.43, Vgn Mahalakshmi Nag, Iiird Main Road, Poonamallee, Tiruvallur, Tamil Nadu	door no 43, tiruvallur, poonamallee, tn	India	IN
+S1-394680937	S2-373660175	S2	Royal Developers Private Limited	r0yaldevelopers	Xii/682, Kottilil Complex, Thrissur Road, Kechery P.O.Kechery, Choondal Gramapanchayath, Thrissur, Kerala	xii/82, kottilil complex, thrissur rd, kechery p o kechery, thrissur, kerala	India	IN
+S1-394680937	S2-844589916	S2	Royal Developers Private Limited	-- r0yal developers pvt ltd	Xii/682, Kottilil Complex, Thrissur Road, Kechery P.O.Kechery, Choondal Gramapanchayath, Thrissur, Kerala	xii/82, kottilil complex, thrissur rd, kechery p o kechery, thrissur, kerala	India	IN
+S1-40678525	S3-151381602	S3	Board of Sanitation	board of saninttation	17945 Rockwell Avenue, Homewood, IL		US	US
+S1-984233875	S3-655782584	S3	Good Business Limited	ltd good bufses	5, Shivam Estate, Dantali Gidc, Nr. Deepkiran Foods, Kalol, Gandhi Nagar, Gujarat	5/2, gandhi nagar, kalol, gj	India	IN
+S1-984233875	S3-772997222	S3	Good Business Limited	good bdugess ltd	5, Shivam Estate, Dantali Gidc, Nr. Deepkiran Foods, Kalol, Gandhi Nagar, Gujarat	5/2, gandhi nagar, gj	India	IN
+S1-472705054	S3-944444308	S3	Vision Industries Private Limited	smt vision industries private	Fazilka Road, Village Ghubaya Teh. Jalalabad, Jalalabad, Firozpur, Punjab	fazilka rd, jalalabad, firozpur, pb	India	IN
+S1-164982253	S3-279831696	S3	White Enterprises Pvt. Ltd.	dr white enerclptrseses pvt ltd	5-Kha-22, Housing Board Shastri Nagar, Jaipur, Rajasthan	5-kha-22, jaipur, rj	India	IN
+S1-99560436	S2-161239005	S2	Ear Nose & Throat Medicine LLC	earnosethroat com	703 Beacon Court, Montgomery Township, PA	beacon ct, lansdale, pa	US	US
+S1-99560436	S3-889312697	S3	Ear Nose & Throat Medicine LLC	ear and throat medicine llc center	703 Beacon Court, Montgomery Township, PA		US	US
+S1-450152295	S3-470561200	S3	Gopal Yatra (India) Private Limited	wexsol formerly gopal yatra india pvt ltd	New Nakasha Lashkari Bagh Near Masjeed, Nagpur, Maharashtra	nagpur, maharashtra, new nakasha lashkari bagh near masjeed	India	IN
+S1-450152295	S3-277749498	S3	Gopal Yatra (India) Private Limited	6opal yatra india private ltd	New Nakasha Lashkari Bagh Near Masjeed, Nagpur, Maharashtra	mh, nagpur, new nakasha lashkari bagh near masjeed, nagpur	India	IN
+S1-825671680	S2-665085322	S2	Hari Indian Enterprises Private Limited	हरि इंडियन एंटरप्राइजेज प्राइवेट लिमिटेड	206, 2Nd Floor, Shreekant Chambers, Sion Trombay Road, Chembur, Mumbai, Mumbai City, Maharashtra	206, mumbai, mumbai city, महाराष्ट्र	India	IN
+S1-936929111	S3-760387607	S3	Dickinson Focus, Corp	dickinson fscu corp	Greenwood, IN, 5632 Skylark Drive	skylark dr, greenwood, indiana	US	US
+S1-197930566	S2-524184937	S2	Downtown Hypnosis	downtown downtown hypnosis	11809 Yuma Road, Scott County, VA	yuma rd, gate city, va	US	US
+S1-73266388	S3-448329295	S3	Trujillo Sony LLC	trujillo soyn llc	113 Cimarron Trail, Irving, Unit 2106, TX		US	US
+S1-306934395	S3-282025737	S3	Phulwari Foundation Private Limited	phulwari fonhdaion pvt ltd	Sri. Subhash Kr.Sinha., S/O Uma Shankar Pd, Sahyogi Marg, Ex.Road, Kadamkuan, Phulwari, Patna, Bihar	door no 927 sri subhash kr sinha, बिहार, patna, phulwari, s/o uma shankar pd, sahyogi marg, ex rd, kadamkuan	India	IN
+S1-944869323	S3-334869431	S3	First Industries Pvt Ltd	ફર્સ્ટ ઇન્ડસ્ટ્રીઝ પ્રા લિ	B No.7, Gulmahor Greens, Ls No. 683/684 Paikee, Ahmedabad, Gujarat	b no.7, ahmadabad, ahmedabad, gj	India	IN
+S1-5533538	S2-276765363	S2	Srk Traders Private Limited	5rk traders pvt ltd	Ff Kh No. 42, 43, 44, Vipin Garden Extn. Near Gali No. 34, Delhi, Plot No. G-1, West Delhi	h no 753 plot no g-1, delhi, west delhi, delhi	India	IN
+S1-5533538	S2-106728038	S2	Srk Traders Private Limited	5rk pvt ltd services	Ff Kh No. 42, 43, 44, Vipin Garden Extn. Near Gali No. 34, Delhi, Plot No. G-1, West Delhi	no 753 plot no g-1, ff kh no 42, 43, 44, vipin garden extn near gali no 34, delhi, west delhi, delhi	India	IN
+S1-787758125	S2-955863783	S2	South Crystal Aria Inc.	south aria inc center	34 Shagwong Drive, Brookhaven, NY		US	US
+S1-839645965	S3-588955896	S3	Shaan Project LLP	5haan project llp	2Nd Floor, Skyview 10, Sy.No.83/1, Raidurgam Hitech City Main Road, Madhapur, Hyderabad, Telangana	2nd fl, hyderabad, andhra pradesh	India	IN
+S1-299367178	S2-250009064	S2	American Legacy Islands Inc	veragildsyn	729 Cr 11, Tiffin, OH	729 cr 11, clinton twp, oh	US	US
+S1-109267757	S3-150871188	S3	Bajrangbali Educational Society	bajrangbali-society éducational	Jind, C/O Anil Kumar, Back Side Haweli, Narwana, Haryana, Jind	c/o anil kumar, back side haweli, narwana, jind, hr	India	IN
+S1-44632418	S2-131484951	S2	Robinson Biomedical LLC	robinson llc center	14845 Hunters Drive, Beaverton, OR	or, beaverton, 74845 hunters dr	US	US
+S1-559249977	S3-314527984	S3	My Investment Private Limited	माय इन्वेस्टमेंट प्राइवेट लिमिटेड	C/O Mayank Anilkumar Sing, Chinchani District Thane, Palghar, Thane, Maharashtra	mh, palghar, thane, c/o mayank anilkumar sing, chinchani district thane	India	IN
+S1-40930902	S3-634958662	S3	Shreeji & Co	belodrex one aka shreeji and co	C/O Khanna Nursing Home, Opposite Gill Petrol Pump G.T. Road, Punjab, Khanna	punjab, c/o khanna nursing home, khanna, opposite gill petrol pump g t rd	India	IN
+S1-840278172	S3-240882584	S3	Royal Consulting Private Limited	रॉयल कंसल्टिंग प्राइवेट लिमिटेड	S.No 64/5, Fl No C10, Padma Park Apartment Near Padamavati Mandir, Pune, Maharashtra	plot 570 s no 64/5, pune, mh	India	IN
+S1-27444152	S3-578691751	S3	Martinez Cap LLC	martinez llc services	5821 Burgundy Rose Drive, Fort Worth, TX		US	US
+S1-423333394	S3-9583143	S3	Urban Exports Pvt Ltd	அர்பன் exports pvt ltd	No 7 A, 7Th Floor, Gee Gee Emerald 151 Village Road Nungambakkam, Chennai, Tamil Nadu	chennai, 7 a, chennai, tn	India	IN
+S1-141869436	S2-890829176	S2	Sahaja Edutech LLP	llp sahaja eduthch	Ground Floor, Ramkrishnapur, Sabrakone, Taldangra, Bankura, West Bengal	ground fl, taldangra, west bengal, ramkrishnapur, sabrakone, bankura	India	IN
+S1-722701300	S3-946525856	S3	Prananth Chemicals Limited	prananth chemicmns ltd	Ed-2C Pitampura, Madhuban Chownk, New Delhi, North West, Delhi		India	IN
+S1-440098202	S3-20863846	S3	Odonnell Cambridge LLC	odonnell camrie llc	33 Bradford Avenue, Mansfield, OH		US	US
+S1-299773245	S3-460127726	S3	DJ Marines Limited	djmarines com	Gram-Sagunahan, Post- Babatpur, Varanasi, Uttar Pradesh	up, post- babatpur, varanasi, gram-sagunahan, varanasi	India	IN
+S1-679867766	S2-281940270	S2	Bright Seafood Inc	bright séafoeod inc	8531 Ff, Town Of Grant, WI	8531 ff, wisconsin rapids, wi	US	US
+S1-679867766	S2-758749983	S2	Bright Seafood Inc	bright sbgaefodo inc	8531 Ff, Town Of Grant, WI	8531 ff, wisconsin rapids, wi	US	US
+S1-276296929	S2-618793748	S2	Wood Integrated Oncology LLC	synavikor	2228 Sandra Terrace, Phoenix, AZ	222 sandra ter, sunnyslope, az	US	US
+S1-655628490	S3-828345775	S3	Vision Impex Limited	sri vision impex ltd	Flat No 104, Wing-B, Shiv Shivam Tower Adarsh Nagar, Jogeshwari West, Mumbai, Mumbai City, Maharashtra	ste 104, null, mh	India	IN
+S1-986414977	S2-510349301	S2	Jai Finance Private Limited	जय फाइनेंस प्राइवेट लिमिटेड	Prop No. 169 & 170, Upper Ground Floor Pocket-20, Sec-24, Rohini, Delhi, North West, Delhi	delhi, upper ground fl pocket-20, sec 24, rohini, null, prop no 169 and 170, delhi	India	IN
+S1-685095028	S3-850420510	S3	Lustre & Partners	lustre and palors	Telangana, Sumitra Nagar, Baghameeri, H.No.5-5, Hyderabad, Tirumalagiri	no 5, hyderabad, తెలంగాణ	India	IN
+S1-534715135	S3-978345366	S3	Fletcher Delta Vaneck, LLC	f1etcher delta vaneck llc	2520 Bear Creek Lane, Phoenix, AZ	arizona, phoenix, bear creek ln	US	US
+S1-333197153	S3-282954322	S3	Apex Media	apex center	381/4, Shri Ramkunj, Life Five, Behind Beshops English School, Arage Mala, Ichalkaranji, Ichalkaranji, Kolhapur, Maharashtra	ichalkaranji, kolhapur, महाराष्ट्र, 381/4	India	IN
+S1-911466358	S2-293737127	S2	Balaji Finance Pvt Ltd	pvt balaji fifnce ltd	First Floor, V/4, Valar Nagar, Melur, Madurai, Tamil Nadu	first fl, madurai, melur, தமிழ்நாடு	India	IN
+S1-185103270	S2-929660238	S2	Tag (India) Developwell Limited	shri tag india developwell	No 16/A, Bangalore, Bangalore North, 2Nd Floor, Kkmp Building, Millers Tank Bund Road, Vasanthnagar, Karnataka	no 0016/a, 2nd fl, kkmp bldg, millers tank bund rd, vasanthnagar, bangalore north, ಕರ್ನಾಟಕ	India	IN
+S1-101600459	S2-640299814	S2	Cascade Harbors PLLC	cascade-pllc services	1334 Day Place, Covington City, VA		US	US
+S1-139922907	S2-215590224	S2	Francis & Sze PLLC	feancis and sze pllc	38565 296th Avenue, Waubun, MN	38565-38567 296rd ave, wauubn city, mn	US	US
+S1-757724109	S3-931996272	S3	Red Agro Private Limited	রেড অ্যাগ্রো প্রাইভেট লিমিটেড	2/1A, Sarat Bose Road, Lansdowne Towers, 4Th Flr, Kolkata, Kolkata, Howrah, West Bengal	2/1a, howrah, kolkata, wb	India	IN
+S1-757724109	S2-539942617	S2	Red Agro Private Limited	রেড অ্যাগ্রো প্রাইভেট লিমিটেড	2/1A, Sarat Bose Road, Lansdowne Towers, 4Th Flr, Kolkata, Kolkata, Howrah, West Bengal	2/1a, calcutta, howrah, পশ্চিমবঙ্গ	India	IN
+S1-359694049	S3-564723361	S3	Summit Complete Sachs	summit c0mplete	801 Green Road, South Euclid, OH		US	US
+S1-180269792	S3-619030731	S3	All Industries Private Limited	ഓൾ industries പ്രൈവറ്റ് ലിമിറ്റഡ്	13/507, B 40, 2Nd Floor, Yamuna Arcade, Kallai Road, Po Chalappuram, Kozhikode, Kerala	kl, kozhikode, 1-3/507, kozhikode	India	IN
+S1-10222665	S2-494483805	S2	Jupitar (India) Planners Pvt. Ltd.	smt ijplanners com	443-The Boulevard, Opp. Western Bus Hub, Surat City, Surat, Gujarat	surat city, blvd, gujarat	India	IN
+S1-618610915	S2-585844822	S2	Floyd Heritage Partners Inc	floyd partners inc center	702 Keene Avenue, Oswego, IL		US	US
+S1-618610915	S3-689183567	S3	Floyd Heritage Partners Inc	floyd partners inc center	702 Keene Avenue, Oswego, IL		US	US
+S1-326503462	S3-820579230	S3	Mountain Mastermind Private Limited	mountain pvt ltd center	A-57/1, Dlf 1, Gurugram, Dlf Qe, Gurgaon, Haryana	hn 30 a-57/1, gurgaon, हरियाणा	India	IN
+S1-911423430	S2-517457087	S2	Solana Silos Private Limited	dr solana silos pvt ltd	Pune City, S No 37/2, Maharashtra, Pune, Keshav Complex	hn b3/108 s no 37/2, keshav complex, pune city, maharashtra	India	IN
+S1-911423430	S2-25848132	S2	Solana Silos Private Limited	solanasilos com	Pune City, S No 37/2, Maharashtra, Pune, Keshav Complex	hn b3/108 s no 37/2, keshav complex, pune city, maharashtra	India	IN
+S1-738693243	S2-165151602	S2	LHB Interiors Pvt Ltd	lhb integrir pvt ltd	No.12, Prem Nagar, Sewanagar, Gwalior, Madhya Pradesh		India	IN
+S1-605334018	S3-257861664	S3	Good Products Private Limited	ಗುಡ್ ಪ್ರೊಡಕ್ಟ್ಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್	314, Manito Commanders Marvel, Duo Marvel Layout, Bangalore North, Bangalore, Karnataka	314, bangalore north, bangalore, ka	India	IN
+S1-300289723	S3-918851466	S3	Healthy Engineering Limited	healthy ltd services	Flat No. 803, Mi Rustle Court, Sector-6, Lucknow, Uttar Pradesh		India	IN
+S1-758391186	S3-492023313	S3	Ss Star Investment Private Limited	ఎస్ ఎస్ స్టార్ ఇన్వెస్ట్ మెంట్ ప్రైవేట్ లిమిటెడ్	P No.56, Guttala Begumpet, Madhapur, Hyderabad, Shaikpet, Hyderabad, Telangana	p no.56, hyderabad, null, andhra pradesh	India	IN
+S1-758391186	S3-882957674	S3	Ss Star Investment Private Limited	ఎస్ ఎస్ స్టార్ ఇన్వెస్ట్ మెంట్ ప్రైవేట్ లిమిటెడ్	P No.56, Guttala Begumpet, Madhapur, Hyderabad, Shaikpet, Hyderabad, Telangana	null, hyderabad, andhra pradesh, p no.56	India	IN
+S1-758391186	S3-289709110	S3	Ss Star Investment Private Limited	ss స్టార్ ఇన్వెస్ట్ మెంట్ ప్రైవేట్ లిమిటెడ్	P No.56, Guttala Begumpet, Madhapur, Hyderabad, Shaikpet, Hyderabad, Telangana	p no.56, hyderabad, null, andhra pradesh	India	IN
+S1-964610916	S2-481476074	S2	Rapid Pinnacle Ramaco	service pinnacle rapid	1399 Commonwealth Avenue, Unit 21, Boston, MA	commonwealth ave, brighton, ma	US	US
+S1-9095876	S3-558130484	S3	Blue Good Infra Private Limited	બ્લૂ ગુડ ઇન્ફ્રા પ્રાઇવેટ લિમિટેડ	G-3, Shri Hari Asson, B/H Law College Ground, Ahmadabad City, Ahmedabad, Gujarat	g-3/3, ahmedabad, ahmadabad city, gj	India	IN
+S1-973717755	S2-940499387	S2	Ujjawal Institute of Technology	ujjawa1 institute of center	Sr No-45/1/1 Milkat No, 1043 Hole Wasti Undri, Pune City, Pune, Maharashtra		India	IN
+S1-178022840	S3-968500624	S3	Orthopedic Highland Center	orthopedic center services	8111 Lucas Lane, Jeffersonville, IN	111 lucas ln, charlestown, indiana	US	US
+S1-453313801	S2-522655618	S2	Jay Media	జై మీడియా	9-4-84/44, Kakatiya Nagar, Nanal Nagar, Golconda, Hyderabad, Telangana	09-4-84/44, golconda, hyderabad, తెలంగాణ	India	IN
+S1-914459278	S3-823575012	S3	Al Systems Private Limited	అల్ systems pvt ltd	30-1565/1, Chandragiri Colony Vedha Bhavan Lane, Neredmet, Hyderabad, Telangana	brock f-175 30-1565/1, hyderabad, andhra pradesh	India	IN
+S1-553350361	S3-897956488	S3	Keystone Dividend Company	keystone divmidned co	275 Candlers Mountain Road, Campbell County, VA	275 canders mountain rd, rustburg, virginia	US	US
+S1-610149670	S3-588852284	S3	QFM Med Private Limited	qfm ltd private-med	K-12, Shop-20, Second Floor Arcade, Malviya Marg, C-Scheme, Jaipur, Rajasthan	jaipur, राजस्थान, ste 6-23 k-12, shop-20, second fl arcade, malviya marg, c-scheme, jaipur	India	IN

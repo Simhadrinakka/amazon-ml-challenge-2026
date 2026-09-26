@@ -1,0 +1,55 @@
+source1_entity_id	target_entity_id	target_source	s1_name	target_name	s1_addr	target_addr	s1_country	target_country
+S1-567308588	S2-191200521	S2	Zander Blue Co	zblue com	9236 Meadowmont View Drive, Charlotte, NC	9238 meadowmont view dr, chralotte city, nc	US	US
+S1-116043204	S3-85523430	S3	Red Consultants Pvt. Ltd.	red pvt ltd center	C/O Tapas Kumar Betal, Bhogpur, Purba Medinipur, Panskura, East Midnapore, West Bengal		India	IN
+S1-876102895	S3-856057185	S3	Physical Therapy Clinic	physical therapy-clinic	5208 Beacon Falls Drive, Fl 1, Columbia, MO	005208 beacon falls dr, fl 1, columbia, missouri	US	US
+S1-876102895	S2-358560681	S2	Physical Therapy Clinic	physlcal therapy clinic	5208 Beacon Falls Drive, Fl 1, Columbia, MO	beacon falls dr, columbia, mo	US	US
+S1-876102895	S2-791711694	S2	Physical Therapy Clinic	physical clinic therapy	5208 Beacon Falls Drive, Fl 1, Columbia, MO		US	US
+S1-67172650	S3-251407198	S3	Apar Engineering (India) Private Limited	m/s apar engineering india	Bangalore, 32, Karnataka, Bangalore, Lake View Apts116, Gangadharachetty Road Ulsoor		India	IN
+S1-152222475	S2-449137844	S2	Ram Maa Logistics Private Limited	राम मां लॉजिस्टिक्स प्राइवेट लिमिटेड	G-1, Floor-Grd, One Avighna Park, Mahadeo Palav Marg, Curry Road Parel, Mumbai, Maharashtra	g-1, churu, mumbai, maharashtra	India	IN
+S1-502736054	S3-537652714	S3	First Seven Exports Pvt Ltd	फर्स्ट सेवन एक्सपोर्ट्स प्रा लि	Maharashtra, At Shahagad Tq. Ambad, Jalna	at shahagad tq ambad, jalna, mh	India	IN
+S1-83647344	S3-175231511	S3	New India Private Limited	new pvt ltd services	Fl 401, Telangana, Sri Niketan Abhinandana Aprt. Ayyappa Society, Nr.Cgr Int. Pl.250 251, Madhapur, Hyderabad, Rangareddy		India	IN
+S1-254440362	S3-734943831	S3	West Surgical, Inc.	west sudilc inc	400 Holstein Street, Unit Unit 2, Bridgeport Borough, PA		US	US
+S1-9455909	S3-384632970	S3	Seven Sun Producer Private Limited	सेवन सन प्रोड्यूसर प्राइवेट लिमिटेड	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	mumbai, mumbai region, unit 08, mh	India	IN
+S1-9455909	S3-393934040	S3	Seven Sun Producer Private Limited	priavfe seven sun producer ltd	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	mh, mumbai region, unit 08, mumbai	India	IN
+S1-9455909	S3-133372803	S3	Seven Sun Producer Private Limited	सेवन सन प्रोड्यूसर प्राइवेट लिमिटेड	Unit 508, Crescent Business Square, 5Th Floor, Opp Gundecha Onclave, Khairani Road, Andheri East, Mumbai, Maharashtra	unit 08, mumbai region, mumbai, mh	India	IN
+S1-821434436	S3-869884588	S3	Pediatric Dental Medicine PC	dpmedicine com	4735 Heber Springs Road, Ida, AR	4735 heber springs rd, ida, arkansas	US	US
+S1-821434436	S2-965836188	S2	Pediatric Dental Medicine PC	pc pediatric dental medicine	4735 Heber Springs Road, Ida, AR	ar, 4734 heber springs rd, ida	US	US
+S1-549559960	S2-848203707	S2	Hari Urban Ventures Pvt Ltd	హరి అర్బన్ వెంచర్స్ ప్రైవేట్ లిమిటెడ్	8-491, Sai Nilayam, Flat No Ff-1, Srls Colony, Vijayawada (Rural), Krishna, Andhra Pradesh	9-491, vijayawada rural, krishna, andhra pradesh	India	IN
+S1-445868199	S3-527067015	S3	Physical Therapy Group Inc	physicaltherapygroup com	7311 Madison Commons Lane, Houston, TX	texas, 7311 madison commons ln, houston	US	US
+S1-140763859	S3-912364563	S3	Pediatric Dentistry Clinic of Northbrook	dentistryclinic com	2501 Mayapple Court, Northbrook, IL	northbrook, 2501 mayapple ct, illinois	US	US
+S1-140763859	S2-672232195	S2	Pediatric Dentistry Clinic of Northbrook	dentistrypediatric com	2501 Mayapple Court, Northbrook, IL	2501 mayapple ct, northbrook, il	US	US
+S1-776686932	S3-653415229	S3	Bn Technologies Ltd	bntechnologies	Kallingalakathchennara P O Mangalam, Malapuram, Kerala	malapuram, malappuram, kl, kallingalakathchennara p o mangalam	India	IN
+S1-478804382	S3-105647246	S3	Global Traders Private Limited	mirahalo	17/1, New Road, Jhansi, Uttar Pradesh	17/1, lalitpur, new rd, up	India	IN
+S1-521254993	S2-391342801	S2	Life Healthcare Private Limited	लाइफ हेल्थकेयर प्राइवेट लिमिटेड	C/O Ketan Rajendra Mande, Dahiwad, Amalner, Amalner, Jalgaon, Maharashtra	jalgaon, amalner, maharashtra, c/o ketan rajendra mande	India	IN
+S1-612484899	S2-639169093	S2	Physical Therapy Care Associates Center	physicaltherapycare com	1168 Mere Point Road, Brunswick, ME	1168 mere point rd, brunswick, me	US	US
+S1-806616139	S3-837289282	S3	Golden Power Pvt Ltd	golden powgr pvt ltd	431, 441 F/F Front Side, Gali No.5 Guru Ram Dass N, East Delhi, Delhi	31, east delhi, dl	India	IN
+S1-977682665	S2-816951244	S2	Premier International Private Limited	பிரீமியர் இன்டர்நேஷனல் பிரைவேட் லிமிடெட்	No 6/913, 4Th Cross, Nethaji Nagar, Trichy Road, Namakkal, Namakkal, Tamil Nadu	ste 6/913, namakkal, tamil nadu	India	IN
+S1-47773771	S3-514311755	S3	Primary Care Specialists Inc.	belocalo	141-08 71 Road, Flushing, NY	141-08b 71 rd, flushign, new york	US	US
+S1-874660306	S2-279857860	S2	Physical Therapy Associates Group	group physical therapy asseatiaes	4303 Elkins Avenue, Unit B, Nashville, TN	004303 elkins ave, po box 5980, nashville, tn	US	US
+S1-798312676	S3-256208237	S3	Vision Impex Private Limited	lumarc	Flat No - 003, B-23, R N B Bldg, Anand Nagar, Dahisar East, Mumbai, Maharashtra	flat no 003, dahisar east, mumbai, mh	India	IN
+S1-205963340	S2-616502408	S2	Secure Marketing Technologies LLC	technologiesmarketing com	982 Willman Pike, Hartford City, IN	hartford city, willman pike, in	US	US
+S1-99560436	S2-161239005	S2	Ear Nose & Throat Medicine LLC	earnosethroat com	703 Beacon Court, Montgomery Township, PA	beacon ct, lansdale, pa	US	US
+S1-450152295	S3-470561200	S3	Gopal Yatra (India) Private Limited	wexsol formerly gopal yatra india pvt ltd	New Nakasha Lashkari Bagh Near Masjeed, Nagpur, Maharashtra	nagpur, maharashtra, new nakasha lashkari bagh near masjeed	India	IN
+S1-825671680	S2-665085322	S2	Hari Indian Enterprises Private Limited	हरि इंडियन एंटरप्राइजेज प्राइवेट लिमिटेड	206, 2Nd Floor, Shreekant Chambers, Sion Trombay Road, Chembur, Mumbai, Mumbai City, Maharashtra	206, mumbai, mumbai city, महाराष्ट्र	India	IN
+S1-334069535	S3-480391326	S3	Red Consultants Private Limited	రెడ్ కన్సల్టెంట్స్ ప్రైవేట్ లిమిటెడ్	Tirumalagiri, 1-1-1115/411, Hyderabad, Panchasheela, Enclave, Ht Lane, Spg Grand, Telangana	c-1-1-1115/411, hyderabad, tirumalagiri, తెలంగాణ	India	IN
+S1-299367178	S2-250009064	S2	American Legacy Islands Inc	veragildsyn	729 Cr 11, Tiffin, OH	729 cr 11, clinton twp, oh	US	US
+S1-559249977	S3-314527984	S3	My Investment Private Limited	माय इन्वेस्टमेंट प्राइवेट लिमिटेड	C/O Mayank Anilkumar Sing, Chinchani District Thane, Palghar, Thane, Maharashtra	mh, palghar, thane, c/o mayank anilkumar sing, chinchani district thane	India	IN
+S1-840278172	S3-240882584	S3	Royal Consulting Private Limited	रॉयल कंसल्टिंग प्राइवेट लिमिटेड	S.No 64/5, Fl No C10, Padma Park Apartment Near Padamavati Mandir, Pune, Maharashtra	plot 570 s no 64/5, pune, mh	India	IN
+S1-687325312	S2-814097790	S2	Ms (India) Ventures Pvt Ltd	msindiaventures com	B/1201 Raj Spaces, L. T. Road No. 2, Off M.G Road, Goregaon West, Mumbai, Mumbai City, Maharashtra	b/1201 raj spaces, mumbai, maharashtra, mumbai city	India	IN
+S1-276296929	S2-618793748	S2	Wood Integrated Oncology LLC	synavikor	2228 Sandra Terrace, Phoenix, AZ	222 sandra ter, sunnyslope, az	US	US
+S1-496404957	S2-667639545	S2	White Products Private Limited	व्हाइट प्रोडक्ट्स प्राइवेट लिमिटेड	Rushikesh Appartment Sakoli Corner, Sambhaji Nagar, Flat No. 4, Kolhapur, Maharashtra, Kolhapur	flat no 4, kolhapur, महाराष्ट्र	India	IN
+S1-490372842	S3-292754865	S3	Physical Therapy Group	physicaltherapygroup com	510 Mettabrook Drive, Swanton, OH	510 mettabrook dr, swanton, ohio	US	US
+S1-490372842	S3-33485222	S3	Physical Therapy Group	physical group partners	510 Mettabrook Drive, Swanton, OH	swanton, ohio, 510 mettabrook dr	US	US
+S1-911466358	S2-293737127	S2	Balaji Finance Pvt Ltd	pvt balaji fifnce ltd	First Floor, V/4, Valar Nagar, Melur, Madurai, Tamil Nadu	first fl, madurai, melur, தமிழ்நாடு	India	IN
+S1-101600459	S2-640299814	S2	Cascade Harbors PLLC	cascade-pllc services	1334 Day Place, Covington City, VA		US	US
+S1-139922907	S2-215590224	S2	Francis & Sze PLLC	feancis and sze pllc	38565 296th Avenue, Waubun, MN	38565-38567 296rd ave, wauubn city, mn	US	US
+S1-757724109	S2-539942617	S2	Red Agro Private Limited	রেড অ্যাগ্রো প্রাইভেট লিমিটেড	2/1A, Sarat Bose Road, Lansdowne Towers, 4Th Flr, Kolkata, Kolkata, Howrah, West Bengal	2/1a, calcutta, howrah, পশ্চিমবঙ্গ	India	IN
+S1-757724109	S2-597857710	S2	Red Agro Private Limited	রেড অ্যাগ্রো প্রাইভেট লিমিটেড	2/1A, Sarat Bose Road, Lansdowne Towers, 4Th Flr, Kolkata, Kolkata, Howrah, West Bengal	2/1a, calcutta, howrah, west bengal	India	IN
+S1-757724109	S3-931996272	S3	Red Agro Private Limited	রেড অ্যাগ্রো প্রাইভেট লিমিটেড	2/1A, Sarat Bose Road, Lansdowne Towers, 4Th Flr, Kolkata, Kolkata, Howrah, West Bengal	2/1a, howrah, kolkata, wb	India	IN
+S1-10222665	S2-494483805	S2	Jupitar (India) Planners Pvt. Ltd.	ijplanners com	443-The Boulevard, Opp. Western Bus Hub, Surat City, Surat, Gujarat	surat city, blvd, gujarat	India	IN
+S1-618610915	S3-689183567	S3	Floyd Heritage Partners Inc	floyd partners inc center	702 Keene Avenue, Oswego, IL		US	US
+S1-618610915	S2-585844822	S2	Floyd Heritage Partners Inc	floyd partners inc center	702 Keene Avenue, Oswego, IL		US	US
+S1-738693243	S2-165151602	S2	LHB Interiors Pvt Ltd	lhb integrir pvt ltd	No.12, Prem Nagar, Sewanagar, Gwalior, Madhya Pradesh		India	IN
+S1-300289723	S3-918851466	S3	Healthy Engineering Limited	healthy ltd services	Flat No. 803, Mi Rustle Court, Sector-6, Lucknow, Uttar Pradesh		India	IN
+S1-833391908	S2-495340863	S2	Modern Infotech Private Limited	ಮಾಡರ್ನ್ ಇನ್ ಫೋಟೆಕ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್	No.174, 2Nd Floor, 2Nd Cross, 7Th Main, 1St Block, Koramangala, Bangalore, Karnataka	no.174, bangalore, ಕರ್ನಾಟಕ	India	IN
+S1-52492661	S3-829584217	S3	Primary Care Custom Associates	arcmirakelo formerly primary care custom associates	2849 Caroline Avenue, Indianapolis, IN	2849 caroline ave, indianapolis, in	US	US
